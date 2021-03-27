@@ -1,0 +1,3 @@
+Triangle:
+Perimeter = 7,841619
+Square = 2,000000
